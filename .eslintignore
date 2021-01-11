@@ -1,0 +1,6 @@
+react-app-env.d.ts
+serviceWorker.ts
+node_modules
+build
+public
+__mocks__

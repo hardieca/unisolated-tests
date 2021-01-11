@@ -1,0 +1,16 @@
+{
+  "root": true,
+  "extends": [
+    "react-app"
+  ],
+  "overrides": [
+    {
+      "files": [
+        "**/*.test.*"
+      ],
+      "rules": {
+        "jsdoc/require-jsdoc": "off"
+      }
+    }
+  ]
+}
